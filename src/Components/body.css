@@ -1,0 +1,27 @@
+.Componenets{
+    background-color: blue;
+    text-align: left;
+    width: 20%;
+}
+.text{
+    text-align: center;
+    color: black;
+    background-color: brown;
+    width: 100%;
+    height: 600px;
+    text-align: center;
+}
+    .navigationapp{
+    display: flex;
+    background-color: chartreuse;
+    height: 100%;
+    width: 100%;
+}
+.navbar{
+    color: red;
+    background-color: blue;
+}
+.app{
+    color: red;
+    background-color: blue;
+}
